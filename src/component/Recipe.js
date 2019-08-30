@@ -25,7 +25,7 @@ const recipe = this.state.activeRecipe
             />
             <h3 className={'active-recipe__title'}>{recipe.title}</h3>
             <h4 className={'active-recipe__publisher'}>
-              <span>{recipe.publisher}</span>}
+              <span>{recipe.publisher}</span>
             </h4>
             <p className={'active-recipe__website'}>
               Website:
